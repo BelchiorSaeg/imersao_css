@@ -1,0 +1,39 @@
+body {
+    background-image: url("https://eskipaper.com/images/solid-color-wallpaper-8.jpg");
+    #background-image: url("https://wallpaperplay.com/walls/full/0/d/4/144846.jpg");
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
+  }
+  
+  .menu {
+    background: #ffffff; 
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: #064566;
+    font-style: bold;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: #012033;
+  }
+  
+  .site-title, .site-subtitle {
+    color: #d9eeff;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+  }
